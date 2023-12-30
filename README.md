@@ -1,9 +1,15 @@
 # Integrantes
+
 Pablo Fernández Perez
+
 José Manuel Amestoy López
+
 Nicolás Rivas Rodríguez
+
 Xoel González Pereira
+
 Jordi Núñez Arias
+
  
 # RPG 
 
